@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "this is a chat application which is build using websocket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choudharysneha1708/chatApplication.git"
+  },
+  "keywords": [
+    "chatApplication"
+  ],
+  "author": "choudharysneha1708",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choudharysneha1708/chatApplication/issues"
+  },
+  "homepage": "https://github.com/choudharysneha1708/chatApplication#readme"
+}
